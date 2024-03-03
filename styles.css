@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(15, 15, 15);
+}
+
+#titulo{
+    text-align: center;
+    color: white;
+}
+
+.links{
+    color: rgb(2, 77, 2);
+}

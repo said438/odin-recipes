@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(15, 15, 15);
+}
+
+h1,
+h2,
+p,
+li{
+    color: white;
+}
+
+img{
+    height: 500;
+    width: 550;
+}
